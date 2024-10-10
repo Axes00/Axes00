@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Axes</h1>
 <h3 align="center">A passionate cs student situated in Greece!</h3>
 
-- 🔭 I’m currently working on **unity projects**
+- 🔭 I’m currently working on **Building My own Phone Application**
 
 - 📫 Contact me on Instagram **axes____**
 
