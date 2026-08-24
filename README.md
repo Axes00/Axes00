@@ -1,54 +1,66 @@
-<h1 align="center">Hi 👋, I'm Axes</h1>
-<h3 align="center">A passionate cs student situated in Greece!</h3>
+## Alexandros Karantonis
 
-- 🔭 I’m currently working on **Building My own Phone Application**
+**Software Engineer · Limassol, Cyprus**
 
-- 📫 Contact me on Instagram **axes____**
+BSc in Computer Science, University of Crete (2026). Co-founder and developer of
+**RSRV**, a ticketing and venue-reservation platform that is live on the App Store and
+Google Play and handles real money for real events.
 
-- ⚡ Fun fact **More adaptable than a tardigrade**
+I work end to end: data model, back-end, payments, the app people actually tap on, and
+the reporting the business runs on afterwards. The floor-plan editor venues use to model
+their own space — multi-floor, custom table shapes, per-table pricing rules, reusable as
+a template per event — is mine from scratch, and everything downstream reads from it.
 
-- SOFTWARE ENGINEER
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/axes____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="axes____" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCaqe_mPxeQ9GapYZP4rfUbA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCaqe_mPxeQ9GapYZP4rfUbA" height="30" width="40" /></a>
-</p>
+### What I'm building
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-  </a>
-  <a href="https://dart.dev/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a>
-  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="android studio" width="40" height="40"/>
-  </a>
-  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  </a>
+**RSRV — ticketing & venue reservations** · *Flutter · Node.js · Firebase · Stripe Connect*
+A full ticketing platform: event and table reservations, QR entry passes, Apple/Google
+Wallet passes, VAT-compliant invoices and receipts, automated venue payouts, and an
+internal analytics console (revenue, commissions, checkout funnel, scan analytics,
+install attribution). Plus the security layer around it — Play Integrity attestation,
+device binding, login throttling and a GDPR account-deletion pipeline.
+183 Cloud Functions, 580+ commits, built by two developers. Live since June 2026.
+*Private repository.*
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  </a>
+**WebMechanica — technical digital library & semantic search** · *Next.js · TypeScript · Prisma · SQLite*
+My thesis, graded 10/10, now heading toward a commercial pilot. Indexes an archive of
+~4,400 documents / 6.5 GB (PDF, DOC/DOCX, XLSX, DWG) into a searchable bilingual
+catalogue: filesystem crawl → metadata extraction → OCR → chunking → multilingual
+embeddings → vector search with in-document highlighting.
+*Private repository.*
 
+**Fuente & Oolaboo — two storefronts, one admin** · *Next.js · React · Supabase · PostgreSQL · Stripe*
+Two brand storefronts and a shared back-office served from a single application, with
+hostname-based routing, brand-scoped customer accounts, a bilingual catalogue, stock
+enforcement, discounts and invoicing — on a PostgreSQL schema with 19 versioned
+migrations and row-level security.
+*Private repository — client work, designed and built solo.*
 
-</p>
+---
 
+### How I work
 
+My co-founder and I are the team behind RSRV. We build with AI coding tools daily —
+**Claude Code**, **OpenAI Codex** and **Cursor** — and three years of using them properly
+is part of how two people ship and operate a production platform of this size. The tools
+speed up the work; the design decisions, the review and the responsibility stay with us.
 
+On the applied-AI side: LLM and RAG pipelines, multilingual embeddings, vector search
+and OCR-based document extraction — the core of my thesis project.
 
+---
+
+### Tools I reach for
+
+`TypeScript` `JavaScript` `Python` `Dart` `SQL` — working knowledge of `C/C++` `Java`
+`Next.js / React` `Node.js` `Flutter`
+`PostgreSQL` `SQLite` `Firestore` `Prisma` `Supabase`
+`Google Cloud / Firebase` `Stripe API` `Git`
+
+---
+
+### Reach me
+
+- alexis.karantonis@gmail.com
